@@ -1,0 +1,12 @@
+body {
+   margin: 0;
+   height: 100vh;
+   display: grid;
+   place-items: center;
+   background-color: white;
+}
+
+body.dark {
+   background-color: black;
+   color: white;
+}
